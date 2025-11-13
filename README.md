@@ -34,6 +34,8 @@
 monsters.csv
 name	respawn_minutes	location	aliases
 飛龍1	240	飛龍谷	小飛龍1|dr1
+
+
 weekly_monsters.csv
 name	weekday	time	location
 巨蟻女皇	1,2,3,4,5	1700	螞蟻洞窟
